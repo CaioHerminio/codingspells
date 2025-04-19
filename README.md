@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Coding Spells</title>
-</head>
-
 <body>
 <h1>Coding Spells of 2025</h1>
 
